@@ -1,7 +1,7 @@
-![alt text](D.%20Presentación/LogoEM.png)
+![alt text](D.%20Presentación/LogoEM.png)  
 ### **Tecnicatura Superior en Telecomunicaciones**
 #### **Materia: Electrónica Microcontrolada**
-#### **Profesor: Gonzalo Vera**
+#### **Profesor: Cristian Gonzalo Vera**
 #### **Alumno: Marcos Bordón Rios**
 
 ---

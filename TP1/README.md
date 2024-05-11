@@ -1,7 +1,7 @@
-![alt text](D.%20Presentación/LogoEM.png)
+![alt text](D.%20Presentación/LogoEM.png)  
 ### **Tecnicatura Superior en Telecomunicaciones**
 #### **Materia: Electrónica Microcontrolada**
-#### **Profesor: Gonzalo Vera**
+#### **Profesor: Cristian Gonzalo Vera**
 #### **Alumno: Marcos Bordón Rios**
 
 ---
@@ -24,4 +24,4 @@
 
 **Presentación**  
 Cada actividad deberá estar documentada y alojada en un monorepositorio, con un informe que incluya el diseño del circuito, la simulación en Proteus, los cálculos teóricos correspondientes, la comparación entre los valores teóricos y los resultados de la simulación, y las conclusiones obtenidas.
-	El plazo de entrega es el correspondiente a la finalización de la semana.
+El plazo de entrega es el correspondiente a la finalización de la semana.
