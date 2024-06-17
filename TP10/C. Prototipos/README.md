@@ -1,7 +1,7 @@
-![LOGO IPSC-EM](../E.%20Assets//logo_ispc_em.png)
+![LOGO IPSC-EM](../E.%20Assets/logo_ispc_em.png)
 
 # **Palabra de configuración (__CONFIG)**  
-Define la configuración de los fusibles, los cuales configuran el comportamiento del microcontrolador.  
+Define la configuración de los fusibles, los cuales configuran el comportamiento del microcontrolador. El detalle de su implementación está en el capítulo 14 (pag. 97) del data sheet. 
 ## **Fusibles**  
 **_CP_OFF (Code Protection)**  
 En off desactiva la protección del código del programa, permitiendo que se pueda leer y escribir la memoria de programa.  

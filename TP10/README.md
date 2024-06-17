@@ -5,6 +5,7 @@
 #### **Alumno: Marcos Bordón Rios**
 ---
 ## **Trabajo Práctico 10: Entrenador Básico**  
+Es importante resaltar que la realización del presente trabajo práctico será evaluada por el profesor para la Evidencia de Aprendizaje n3.    
 ### **Objetivos**  
  - Familiarizarse con un entorno de desarrollo de bajo nivel  
  - Introducir las primeras practicas con micros PIC de 8 bit  

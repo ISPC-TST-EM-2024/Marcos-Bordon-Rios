@@ -8,5 +8,5 @@
  - TP1. Simulación eléctrica.  
  - TP2. Simulación electrónica.  
  - TP3. CLC.  
- - TP4. Actualización del repositorio personal.  
- - TP10. Entrenador Básico.  
+ - TP4. Actualización del repositorio. Evidencia de Aprendizaje n2.  
+ - TP10. Entrenador Básico. Evidencia de Aprendizaje n3. 
